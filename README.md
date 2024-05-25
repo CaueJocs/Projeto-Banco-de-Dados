@@ -15,7 +15,7 @@ Instruções de uso:
 
 4.Executar o arquivo Inserts.sql
 
-5.Executar o arquivo Script.sql, que terá todos os selects que foram pedidos.
+5.Executar o arquivo selects.sql, que terá todos os selects que foram pedidos.
 
 
 
